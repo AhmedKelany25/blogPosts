@@ -1,0 +1,36 @@
+
+mat-form-field ,textarea{
+    width: 100%;
+}
+
+input[type=file]{
+    visibility: hidden;
+}
+.image-preview{
+    height: 5rem;
+    margin: 1rem 0;
+}
+.image-preview img{
+    height: 100%;
+}
+
+mat-spinner{
+    margin: auto;
+}
+button{
+    margin-top: 1rem;
+}
+.btn{
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+}
+.clear-float{
+    clear: both;
+  }
+
+
+  mat-card{
+    position: relative;
+    height: 21rem;
+  }
